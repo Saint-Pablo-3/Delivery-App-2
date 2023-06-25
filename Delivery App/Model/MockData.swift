@@ -7,8 +7,6 @@
 
 import UIKit
 
-//    let bannerArray = [UIImage(named: "banner1"), UIImage(named: "banner2"), UIImage(named: "banner3")]
-
 struct MockData {
 	func makeCells() -> [Section] {
 		[
